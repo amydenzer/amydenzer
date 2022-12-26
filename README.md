@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf](http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf)
 
-- ⚡ Fun fact **My childhood aspiration was to become a lawyer.**
+- ⚡ Fun fact **In my spare time, you'll find me shopping at the Minneapolis Farmer's Market**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
