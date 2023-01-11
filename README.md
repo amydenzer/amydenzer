@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **making a website for client confidential**
 
-- 🌱 I’m currently learning **AWS, LUA, PHP, SEO**
+- 🌱 I’m currently learning **AWS, React, Angular, SEO**
 
 - 🤝 I’m looking for help with [finding my next position](https://www.linkedin.com/in/amydenzer/)
 
