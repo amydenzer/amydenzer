@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf](http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf)
 
-- ⚡ Fun fact **In my spare time, you'll find me shopping at the Minneapolis Farmer's Market**
+- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer. This incident is often cited as the origin of the term "debugging" when referring to fixing software issues.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
