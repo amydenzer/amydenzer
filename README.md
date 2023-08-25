@@ -7,19 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/amydenzer" target="blank"><img src="https://img.shields.io/twitter/follow/amydenzer?logo=twitter&style=for-the-badge" alt="amydenzer" /></a> </p>
 
-<!-- **How I might fix your website and/or business problem.** -->
-
-<!--  - 📫 How to reach me **amydenzer@gmail.com** -->
-
-<!--   - 📄 Know about my experiences [http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf](http://amysue.me/Amy_Denzer_-_Software_Engineer.pdf) -->
-
-<!-- a normal html comment  - 🔭 I’m currently working on **making a website for client confidential** -->
 
 - 🌱 I’m currently learning React
 
-- 🤝 I’m looking for help with [finding my next position](https://www.linkedin.com/in/amydenzer/)
-
-- 👨‍💻 All of my projects are available at [http://amysue.me](http://amysue.me)
+- 👨‍💻 All of my projects will be available soon at [http://amysue.me](http://amysue.me)
 
 - 💬 Ask me about JavaScript
 
