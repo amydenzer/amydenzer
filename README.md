@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer. This incident is where the term "debugging" came from.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/adenzer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adenzer" height="30" width="40" /></a>
