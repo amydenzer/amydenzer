@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amy</h1>
+<h1 align="center">Hi 👋, I'm Amy Denzer</h1>
 <h3 align="center">I'm a full-stack developer based in the Twin Cities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amydenzer&label=Profile%20views&color=0e75b6&style=flat" alt="amydenzer" /> </p>
