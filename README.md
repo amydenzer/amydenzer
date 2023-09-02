@@ -14,7 +14,7 @@
 
 - 💬 Ask me about JavaScript
 
-- ⚡ Fun fact **The first computer "bug" was an actual bug! In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer. This incident is where the term "debugging" came from.**
+- ⚡ Fun fact **Marc Andreessen, co-founder of Netscape and a prominent venture capitalist, famously said, "Software is eating the world." This statement highlights how software is transforming and disrupting various industries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
