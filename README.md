@@ -14,7 +14,7 @@
 
 - 💬 Ask me about JavaScript
 
-- ⚡ Fun fact **Marc Andreessen, co-founder of Netscape and a prominent venture capitalist, famously said, "Software is eating the world." This statement highlights how software is transforming and disrupting various industries.**
+- ⚡ Fun fact **People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones — David Knuth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
