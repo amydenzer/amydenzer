@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amy Denzer</h1>
 <h3 align="center">I'm a full-stack developer based in the Twin Cities</h3>
 
-- 🌱 I’m currently focusing on data structures and algorithms
+- 🌱 I’m currently focusing on React
 
 - 💬 Ask me about JavaScript
 
